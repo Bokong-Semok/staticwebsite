@@ -11,20 +11,20 @@
     "footerLinkTitleOne": "Services",
     "navListOne": [
         {
-            "navTitle": "Marketing",
-            "navUrl": "/" 
+            "navTitle": "Travel",
+            "navUrl": "/services/travel" 
         },
         {
-            "navTitle": "SEO/SEM",
-            "navUrl": "/" 
+            "navTitle": "Meeting",
+            "navUrl": "/services/meeting" 
         },
         {
             "navTitle": "Development",
-            "navUrl": "/" 
+            "navUrl": "/services/development" 
         },
         {
-            "navTitle": "UX Design",
-            "navUrl": "/" 
+            "navTitle": "Commerce",
+            "navUrl": "/services/commerce" 
         }
     ],
     "footerLinkTitleTwo": "Products",

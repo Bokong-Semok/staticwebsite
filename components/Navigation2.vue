@@ -5,7 +5,7 @@
                 <NuxtLink to="/">Home</NuxtLink>
             </li>
             <li>
-                <NuxtLink to="/about">About Us</NuxtLink>
+                <NuxtLink to="/technology">Technology</NuxtLink>
             </li>
             <li class="has-children">
                 <NuxtLink to="/services">Service</NuxtLink>
@@ -24,6 +24,9 @@
                     </li>
                    
                 </ul>
+            </li>
+            <li>
+                <NuxtLink to="/about">About Us</NuxtLink>
             </li>
             <!-- <li class="has-children">
                 <NuxtLink to="/project">Products</NuxtLink>

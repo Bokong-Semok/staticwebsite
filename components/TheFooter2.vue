@@ -42,7 +42,7 @@
                 <!-- Footer Widget End -->
 
                 <!-- Footer Widget Start -->
-                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 mt-30">
+                <!-- <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 mt-30">
                     <div class="footer-widget">
                         <h4 class="footer-widget-title">{{ footerData.footerLinkTitleTwo }}</h4>
                         <div class="footer-widget-content">
@@ -53,11 +53,11 @@
                             </ul>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- Footer Widget End -->
 
                 <!-- Footer Widget Start -->
-                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 mt-30">
+                <!-- <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 mt-30">
                     <div class="footer-widget">
                         <h4 class="footer-widget-title">{{ footerData.footerLinkTitleThree }}</h4>
                         <div class="footer-widget-content">
@@ -68,11 +68,11 @@
                             </ul>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- Footer Widget End -->
 
                 <!-- Footer Widget Start -->
-                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 mt-30">
+                <!-- <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 mt-30">
                     <div class="footer-widget">
                         <h4 class="footer-widget-title">{{ footerData.footerLinkTitleFour }}</h4>
                         <div class="footer-widget-content">
@@ -83,7 +83,7 @@
                             </ul>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- Footer Widget End -->
             </div>
             <!-- Footer Top Widgets End -->
@@ -91,7 +91,7 @@
             <!-- Footer Copyright Start -->
             <div class="row">
                 <div class="col">
-                    <p class="copyright">&copy; 2023 Bokong Semok Future Technology LTD.</p>
+                    <p class="copyright">&copy; 2023 - 2024 Bokong Semok Future Technology LTD.</p>
                 </div>
             </div>
             <!-- Footer Copyright End -->
