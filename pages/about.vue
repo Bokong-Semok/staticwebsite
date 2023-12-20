@@ -1,6 +1,6 @@
 <template>
     <div class="main-container">
-        <TheHeader />
+        <TheHeader2 />
         <OffCanvasMobileMenu />
         <SearchPopup />
         <BreadcrumbOne activePageName="About Us" title="We are an agency located in New York" backgroundUrl= "/images/bg/breadcrumb-bg.jpg" />

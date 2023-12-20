@@ -1,6 +1,6 @@
 <template>
     <div class="main-container">
-        <TheHeader />
+        <TheHeader2 />
         <OffCanvasMobileMenu />
         <SearchPopup />
         <BreadcrumbOne activePageName="Service" title="We work with bold brands that we believe in" backgroundUrl= "/images/bg/breadcrumb-bg-three.jpg" />
@@ -9,7 +9,7 @@
         <AboutFour />
         <FunfactWithTitle />
         <ContactSectionTwo />
-        <TheFooter />
+        <TheFooter2 />
     </div>
 </template>
 

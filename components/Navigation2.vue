@@ -1,14 +1,14 @@
 <template>
     <nav class="site-main-menu">
         <ul>
-            <li class="has-children">
+            <li>
                 <NuxtLink to="/">Home</NuxtLink>
             </li>
             <li>
                 <NuxtLink to="/about">About Us</NuxtLink>
             </li>
             <li class="has-children">
-                <NuxtLink to="/service">Service</NuxtLink>
+                <NuxtLink to="/services">Service</NuxtLink>
                 <ul class="sub-menu">
                     <li>
                         <NuxtLink to="/services/travel">Travel</NuxtLink>
@@ -17,8 +17,12 @@
                         <NuxtLink to="/services/meeting">Meeting</NuxtLink>
                     </li>
                     <li>
-                        <NuxtLink to="/services/development">Software Development</NuxtLink>
+                        <NuxtLink to="/services/development">Software</NuxtLink>
                     </li>
+                    <li>
+                        <NuxtLink to="/services/commerce">Commerce</NuxtLink>
+                    </li>
+                   
                 </ul>
             </li>
             <!-- <li class="has-children">
