@@ -25,7 +25,7 @@
                         </div>
                         <div class="info">
                             <h4 class="title">Give Us A Call</h4>
-                            <span class="info-text"> 0123456789 <br> 0123456789</span>
+                            <span class="info-text"> +86 15267084773 <br></span>
                         </div>
                     </div>
                 </div>

@@ -1,11 +1,12 @@
 {
     "footerAboutWidget": {
-        "logoSrc": "/images/logo/footer-logo.png",
+        "logoSrc": "/images/logo/logo2.png",
         "telephone": "0123456789",
         "email": "demo@example.com",
         "fbUrl": "https://www.facebook.com/",
         "twitterUrl": "https://twitter.com/",
-        "instagramUrl": "https://www.instagram.com/"
+        "instagramUrl": "https://www.instagram.com/",
+        "linkedinUrl": "https://linkedin.com/company/bsemok-future-tech"
     },
     "footerLinkTitleOne": "Services",
     "navListOne": [
