@@ -23,11 +23,11 @@
                         <!-- Header Search Start -->
                         <div class="header-search-area">
                             <!-- Header Login Start -->
-                            <div class="header-search">
+                            <!-- <div class="header-search">
                                 <button class="header-search-toggle" @click="toggleClass('addClass', 'search-popup-open')">
                                     <i class="fa fa-search"></i>
                                 </button>
-                            </div>
+                            </div> -->
                             <!-- Header Login End -->
                         </div>
                         <!-- Header Search End -->

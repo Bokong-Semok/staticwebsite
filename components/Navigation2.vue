@@ -11,18 +11,14 @@
                 <NuxtLink to="/services">Service</NuxtLink>
                 <ul class="sub-menu">
                     <li>
-                        <NuxtLink to="/services/travel">Travel</NuxtLink>
-                    </li>
-                    <li>
-                        <NuxtLink to="/services/meeting">Meeting</NuxtLink>
-                    </li>
-                    <li>
-                        <NuxtLink to="/services/development">Software</NuxtLink>
+                        <NuxtLink to="/services/hospitality">Hospitality</NuxtLink>
                     </li>
                     <li>
                         <NuxtLink to="/services/commerce">Commerce</NuxtLink>
                     </li>
-                   
+                    <li>
+                        <NuxtLink to="/services/development">Software</NuxtLink>
+                    </li>
                 </ul>
             </li>
             <li>

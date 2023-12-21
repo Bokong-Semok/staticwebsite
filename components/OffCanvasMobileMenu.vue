@@ -11,17 +11,20 @@
                 <button class="mobile-close-btn" @click="mobiletoggleClass('removeClass', 'show-mobile-menu')"></button>
             </div>
             <div class="menu-content">
-                <MobileNavigation />
+                <MobileNavigation2 />
             </div>
         </div>
     </div>
 </template>
 
 <script>
+import MobileNavigation2 from './MobileNavigation2.vue';
+
     export default {
         components: {
-            MobileNavigation: () => import('@/components/MobileNavigation'),
-        },
+    MobileNavigation: () => import('@/components/MobileNavigation'),
+    MobileNavigation2
+},
         
         methods: {
             // offcanvas menu close

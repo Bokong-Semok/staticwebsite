@@ -2,13 +2,13 @@
     <div class="main-container">
         <TheHeader2 />
         <OffCanvasMobileMenu />
-        <SearchPopup />
+        <!-- <SearchPopup /> -->
         <HeroSliderOne />
-        <AboutOne />
-        <FeatureOne :style="{backgroundColor: '#f8faff'}" />
+        <AboutOne2 />
+        <FeatureOne2 :style="{backgroundColor: '#f8faff'}" />
         <SuccessStory />
-        <PortfolioGallery />
-        <BlogSectionOne />
+        <!-- <PortfolioGallery /> -->
+        <!-- <BlogSectionOne /> -->
         <Newsletter />
         <CallToActionOne2 />
         <TheFooter2 />
