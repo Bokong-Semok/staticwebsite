@@ -3,7 +3,7 @@
         <TheHeader2 />
         <OffCanvasMobileMenu />
         <SearchPopup />
-        <BreadcrumbOne activePageName="Services - Commerce" title="We develop our own shops" backgroundUrl= "/images/bg/breadcrumb-bg.jpg" />
+        <BreadcrumbOne activePageName="Services - Commerce" title="We develop our own shops" backgroundUrl= "/images/bg/breadcrumb-bg-1.jpg" />
 
         <CallToActionOne2 />
         <TheFooter2 />

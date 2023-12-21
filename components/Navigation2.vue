@@ -8,7 +8,7 @@
                 <NuxtLink to="/technology">Technology</NuxtLink>
             </li>
             <li class="has-children">
-                <NuxtLink to="/services">Service</NuxtLink>
+                <NuxtLink to="/#">Service</NuxtLink>
                 <ul class="sub-menu">
                     <li>
                         <NuxtLink to="/services/hospitality">Hospitality</NuxtLink>

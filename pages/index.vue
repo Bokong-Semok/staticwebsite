@@ -6,7 +6,7 @@
         <HeroSliderOne />
         <AboutOne2 />
         <FeatureOne2 :style="{backgroundColor: '#f8faff'}" />
-        <SuccessStory />
+        <!-- <SuccessStory /> -->
         <!-- <PortfolioGallery /> -->
         <!-- <BlogSectionOne /> -->
         <Newsletter />
