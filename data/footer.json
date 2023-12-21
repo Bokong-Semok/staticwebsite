@@ -11,21 +11,18 @@
     "footerLinkTitleOne": "Services",
     "navListOne": [
         {
-            "navTitle": "Travel",
-            "navUrl": "/services/travel" 
-        },
-        {
-            "navTitle": "Meeting",
-            "navUrl": "/services/meeting" 
-        },
-        {
-            "navTitle": "Development",
-            "navUrl": "/services/development" 
+            "navTitle": "Hospitality",
+            "navUrl": "/services/hospitality" 
         },
         {
             "navTitle": "Commerce",
             "navUrl": "/services/commerce" 
+        },
+        {
+            "navTitle": "Development",
+            "navUrl": "/services/development" 
         }
+      
     ],
     "footerLinkTitleTwo": "Products",
     "navListTwo": [

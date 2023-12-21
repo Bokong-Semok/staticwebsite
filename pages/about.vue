@@ -3,8 +3,8 @@
         <TheHeader2 />
         <OffCanvasMobileMenu />
         <SearchPopup />
-        <BreadcrumbOne activePageName="About Us" title="We are an agency located in New York" backgroundUrl= "/images/bg/breadcrumb-bg.jpg" />
-        <AboutTwo class="section-padding-top about-section-padding-bottom-200" />
+        <BreadcrumbOne activePageName="About Us" title="We are a startup teams with dreams" backgroundUrl= "/images/bg/breadcrumb-bg.jpg" />
+        <AboutTwo2 class="section-padding-top about-section-padding-bottom-200" />
         <CallToActionVideo />
         <AboutFour />
         <TestimonialSectionOne :style="{backgroundColor: '#f8faff'}" />
