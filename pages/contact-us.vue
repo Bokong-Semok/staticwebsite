@@ -2,7 +2,7 @@
     <div class="main-container">
         <TheHeader2 />
         <OffCanvasMobileMenu />
-        <SearchPopup />
+        <!-- <SearchPopup /> -->
         <BreadcrumbOne activePageName="Contact Us" title="Contact us for any inquiries" backgroundUrl= "/images/bg/breadcrumb-bg-1.jpg" />
         <CallToActionOne2 />
 

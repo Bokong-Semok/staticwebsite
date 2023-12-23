@@ -4,6 +4,7 @@
         <OffCanvasMobileMenu />
         <SearchPopup />
         <BreadcrumbOne activePageName="Services - Hospitality" title="Our hospitality meet high tech" backgroundUrl= "/images/bg/breadcrumb-bg-1.jpg" />
+        <HospitalityService />
 
         <CallToActionOne2 />
         <TheFooter2 />
