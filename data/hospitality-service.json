@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Enhanced Security and Privacy",
+        "slug": "",
+        "text": "Embrace a new level of security and data privacy with our blockchain solutions. Safeguard guest information, transactions, and sensitive data, ensuring a secure and trustworthy environment for both your guests and your business.",
+        "iconSrc": "/images/svg/linea/linea-basic-target.svg",
+        "imgSrc": "/images/project/work-details-1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Streamlined Operations",
+        "slug": "",
+        "text": "Optimize your operational efficiency with AI-driven solutions that automate routine tasks, allowing your staff to focus on providing a more personalized and attentive service. From check-in to housekeeping, our technologies streamline processes to create a seamless guest journey.",
+        "iconSrc": "/images/svg/linea/linea-basic-picture-multiple.svg",
+        "imgSrc": "/images/project/work-details-2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Personalized Guest Experiences",
+        "slug": "",
+        "text": "Harness the power of AI to analyze guest preferences, behaviors, and feedback. Deliver hyper-personalized experiences that cater to individual tastes, ensuring that every guest feels like a VIP. From room customization to personalized recommendations, we tailor every aspect of the stay..",
+        "iconSrc": "/images/svg/linea/linea-basic-picture.svg",
+        "imgSrc": "/images/project/work-details-3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Decentralized Booking and Payments",
+        "slug": "",
+        "text": "Revolutionize your booking and payment processes with blockchain technology. Enable secure, decentralized transactions that reduce the risk of fraud and eliminate the need for intermediaries. Provide your guests with a hassle-free booking experience that prioritizes transparency.",
+        "iconSrc": "/images/svg/linea/linea-ecommerce-cart-plus.svg",
+        "imgSrc": "/images/project/work-details-4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Loyalty Programs Reinvented",
+        "slug": "",
+        "text": "Transform your loyalty programs with blockchain-based rewards. Our solutions make it easy to create and manage loyalty programs that are transparent, traceable, and provide real value to your guests. Foster long-lasting relationships and repeat business..",
+        "iconSrc": "/images/svg/linea/linea-basic-display.svg",
+        "imgSrc": "/images/project/work-details-1.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Sustainability Initiatives",
+        "slug": "",
+        "text": "Demonstrate your commitment to sustainability with blockchain's ability to track and verify eco-friendly practices. Showcase your environmentally conscious efforts and appeal to the growing number of eco-conscious travelers.",
+        "iconSrc": "/images/svg/linea/linea-basic-gear.svg",
+        "imgSrc": "/images/project/work-details-2.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Real-Time Analytics and Insights",
+        "slug": "",
+        "text": "Make data-driven decisions with our advanced analytics tools. Monitor guest behaviors, preferences, and operational metrics in real-time, allowing you to adapt and optimize your services on the fly.",
+        "iconSrc": "/images/svg/linea/linea-basic-gear.svg",
+        "imgSrc": "/images/project/work-details-2.jpg"
+    }
+]
