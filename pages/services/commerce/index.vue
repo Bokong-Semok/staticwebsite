@@ -3,7 +3,9 @@
         <TheHeader2 />
         <OffCanvasMobileMenu />
         <SearchPopup />
-        <BreadcrumbOne activePageName="Services - Commerce" title="We develop our own shops" backgroundUrl= "/images/bg/breadcrumb-bg-1.jpg" />
+        <BreadcrumbOne activePageName="Services - Commerce" title="Cross border e-commerce with the power of technology" backgroundUrl= "/images/bg/breadcrumb-bg-1.jpg" />
+        <CommerceService />
+
 
         <CallToActionOne2 />
         <TheFooter2 />

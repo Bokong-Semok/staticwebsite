@@ -6,7 +6,7 @@
         <div class="content">
             <h3 class="title">{{ service.title }}</h3>
             <div class="desc">
-                <p>{{ service.text }}</p>
+                <p style="text-align: justify;">{{ service.text }}</p>
             </div>
             <!-- <NuxtLink :to="`/service/${service.slug}`" class="link">View Details</NuxtLink> -->
         </div>

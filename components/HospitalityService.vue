@@ -26,18 +26,32 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="service-details-content mt-30">
-                                    <h4>Meeting</h4>
-                                    <p>Personalized meeting for you, your love or your team with our app recommendation and easy to use</p>
+                                    <h4>Social and Business Meeting</h4>
+                                    <p>Use our recommendation for social meeting for you, your team or your business opportinities with our unique </p>
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="service-details-content mt-30">
-                                    <h4>Travel</h4>
-                                    <p>Personalized travel experiences for you to go with our service. </p>
+                                    <h4>Personalize Travel</h4>
+                                    <p>Our technology enrich your travel experience, meet new people, enjoy culture.</p>
                                 </div>
                             </div>
 
+                            <div class="col-sm-6">
+                                <div class="service-details-content mt-30">
+                                    <h4>Fine Dining</h4>
+                                    <p>Indulge in a culinary delight at our fine dining restaurant, offering a diverse menu of gourmet dishes prepared by our skilled chefs </p>
+                                </div>
+                            </div>
 
+                            <div class="col-sm-6">
+                                <div class="service-details-content mt-30">
+                                    <h4>Escape session</h4>
+                                    <p>Tired of daily activity, just escape to a place for you and your family</p>
+                                </div>
+                            </div>
+
+                           
 
                         </div>
 
