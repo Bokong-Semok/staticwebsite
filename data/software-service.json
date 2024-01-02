@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Innovation at Every Layer",
+        "slug": "",
+        "text": "Experience innovation at every layer of software development. From conceptualization to deployment, our solutions redefine industry standards, setting your software apart in a competitive landscape.",
+        "iconSrc": "/images/svg/linea/linea-basic-target.svg",
+        "imgSrc": "/images/project/work-details-1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Future-Proof Solutions",
+        "slug": "",
+        "text": "Stay ahead of the curve with future-proof solutions designed to adapt and evolve in the rapidly changing technological landscape. Embrace the future confidently, knowing your software is equipped to meet tomorrow's challenges.",
+        "iconSrc": "/images/svg/linea/linea-basic-picture-multiple.svg",
+        "imgSrc": "/images/project/work-details-2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "xpertise You Can Trust",
+        "slug": "",
+        "text": "Rely on a team of seasoned experts passionate about pushing the boundaries of what's possible. With a track record of successful projects, we bring a wealth of experience to the table, ensuring your vision becomes a reality.",
+        "iconSrc": "/images/svg/linea/linea-basic-picture.svg",
+        "imgSrc": "/images/project/work-details-3.jpg"
+    }
+   
+]

@@ -16,7 +16,7 @@
         </div>
         <!--Google Map Area Start-->
 
-        <ContactForm />
+        <ContactForm2 />
         <TheFooter2 />
     </div>
 </template>

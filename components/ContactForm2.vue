@@ -1,3 +1,5 @@
+
+import type TypeformContactFormVue from './TypeformContactForm.vue';
 <template>
     <div class="contact-form-section section-padding-t90-b100" :style="{backgroundColor: '#f8faff'}">
         <div class="container">
@@ -9,10 +11,14 @@
                         <p class="sub-title">We have made it easy for clients to reach us and get their solutions weaved</p>
                     </div>
 
+                    <div class="contact-form">
+                       <TypeformContactForm/>
+                    </div>
+
                   
 
                     <!-- Section Title End -->
-                    <div class="contact-form">
+                    <!-- <div class="contact-form">
                         <form>
                             <div class="row mtn-30">
                                 <div class="col-md-6 col-12 mt-30">
@@ -32,7 +38,7 @@
                                 </div>
                             </div>
                         </form>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
