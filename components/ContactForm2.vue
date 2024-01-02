@@ -1,4 +1,6 @@
 
+import type JotformContactFormVue from './JotformContactForm.vue';
+
 import type TypeformContactFormVue from './TypeformContactForm.vue';
 <template>
     <div class="contact-form-section section-padding-t90-b100" :style="{backgroundColor: '#f8faff'}">
@@ -12,7 +14,7 @@ import type TypeformContactFormVue from './TypeformContactForm.vue';
                     </div>
 
                     <div class="contact-form">
-                       <TypeformContactForm/>
+                       <JotformContactForm/>
                     </div>
 
                   

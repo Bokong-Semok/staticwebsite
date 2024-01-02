@@ -46,11 +46,25 @@
 
                             <div class="col-sm-6">
                                 <div class="service-details-content mt-30">
+                                    <h4>Custom Theme Dining</h4>
+                                    <p> We prepare for you custom theme dining with unique experiences.</p>
+                                </div>
+                            </div>
+
+
+                            <div class="col-sm-6">
+                                <div class="service-details-content mt-30">
                                     <h4>Escape session</h4>
                                     <p>Tired of daily activity, just escape to a place for you and your family</p>
                                 </div>
                             </div>
 
+                            <div class="col-sm-6">
+                                <div class="service-details-content mt-30">
+                                    <h4>Match and Go</h4>
+                                    <p>Recommendation experience unique between you and our various hotel, restaurant, fun places, bar.</p>
+                                </div>
+                            </div>
                            
 
                         </div>

@@ -79,7 +79,7 @@
                             <div class="col-sm-6">
                                 <div class="service-details-content mt-30">
                                     <h4>Validated Open Source</h4>
-                                    <p>We strictly choose open source components, controls and template</p>
+                                    <p>We strictly choose open source components, controls and template1</p>
                                 </div>
                             </div>
 

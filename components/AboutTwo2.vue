@@ -22,8 +22,8 @@
                             </div>
                             <!-- <div class="col-md-5 col-sm-6 col-12 mt-30" data-aos="fade-up">
                                 <div class="about-funfact">
-                                    <div class="number"><span class="counter">130</span>+</div>
-                                    <h6 class="text">Completed projects</h6>
+                                    <div class="number"><span class="counter">5</span></div>
+                                    <h6 class="text">Teams</h6>
                                     <p>We help our clients increase profits by increasing their visibility online.</p>
                                 </div>
                             </div> -->

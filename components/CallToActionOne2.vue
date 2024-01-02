@@ -18,7 +18,7 @@
                     </div>
                 </div>
 
-                <div class="col mt-30" data-aos="fade-up">
+                <!-- <div class="col mt-30" data-aos="fade-up">
                     <div class="contact-info">
                         <div class="icon">
                             <img class="svgInject" src="/images/svg/linea/linea-basic-message-txt.svg" alt="Icon">
@@ -28,7 +28,7 @@
                             <span class="info-text"> +86 15267084773 <br></span>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="col mt-30" data-aos="fade-up">
                     <div class="contact-info">
@@ -37,11 +37,11 @@
                         </div>
                         <div class="info">
                             <h4 class="title">Help Desk</h4>
-                            <!--<span class="info-text">
-                                <a href="mailto:demo@example.com">demo@example.com</a>
+                            <span class="info-text">
+                                You can fill  <a style="color: blue;" href="https://form.jotform.com/240012309096043" target="_blank">CONTACT FORM </a>&nbsp;&nbsp;
                                 <br>
-                                <a href="mailto:demo@example.com">demo@example.com</a>
-                            </span> -->
+                                <!-- <a href="mailto:demo@example.com">demo@example.com</a> -->
+                            </span>
                         </div>
                     </div>
                 </div>
