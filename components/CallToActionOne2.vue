@@ -36,7 +36,7 @@
                             <img class="svgInject" src="/images/svg/linea/linea-basic-mail-open-text.svg" alt="Icon">
                         </div>
                         <div class="info">
-                            <h4 class="title">Help Desk</h4>
+                            <h4 class="title">Sales and Marketing</h4>
                             <span class="info-text">
                                 You can fill  <a style="color: blue;" href="https://form.jotform.com/240012309096043" target="_blank">CONTACT FORM </a>&nbsp;&nbsp;
                                 <br>
