@@ -33,8 +33,13 @@
                     <div class="about-content-area about-one">
                         <!-- Section Title Two Start -->
                         <div class="section-title-two">
-                            <span class="sub-title">Hospitality for Community</span>
-                            <h3 class="title">Our vision will bring hospitality to community</h3>
+                            <span class="sub-title">Hospitality</span>
+                            <h3 class="title">Bring hospitality with Blockchain and AI technology</h3>
+                        </div>
+
+                        <div class="section-title-two">
+                            <span class="sub-title">Cross-border e-commerce</span>
+                            <h3 class="title">E-commerce with crypto + fiat payments. We handle the rest</h3>
                         </div>
                         <!-- Section Title Two End -->
 
