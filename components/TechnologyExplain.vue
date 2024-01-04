@@ -53,7 +53,7 @@
                 <br />
                 <br />
 
-                <h3 class="mt-4 mb-3">Our Technology</h3>
+                <h3 class="mt-4 mb-3">Platform</h3>
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="service-details-content mt-30">
@@ -88,7 +88,117 @@
                 </div>
 
 
+                <h3 class="mt-4 mb-3">Blockchain</h3>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="service-details-content mt-30">
+                            <h4>Microsoft Stack</h4>
+                            <p>Our solution based .NET Core, .NET Framework with language of C# and F#</p>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="service-details-content mt-30">
+                            <h4>Cloud ready and On-Premises</h4>
+                            <p>Our solution are running on public cloud such as Microsoft Azure, AWS Amazon and Google
+                                Cloud.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="service-details-content mt-30">
+                            <h4>Validated Open Source</h4>
+                            <p>We strictly choose open source components, controls and template1</p>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="service-details-content mt-30">
+                            <h4>Multiple Devices</h4>
+                            <p>From desktop PC, Server(s), mobile phone or VR headset</p>
+                        </div>
+                    </div>
+
+
+                </div>
+
+
+                <h3 class="mt-4 mb-3">AI and Big Data</h3>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="service-details-content mt-30">
+                            <h4>Microsoft Stack</h4>
+                            <p>Our solution based .NET Core, .NET Framework with language of C# and F#</p>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="service-details-content mt-30">
+                            <h4>Cloud ready and On-Premises</h4>
+                            <p>Our solution are running on public cloud such as Microsoft Azure, AWS Amazon and Google
+                                Cloud.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="service-details-content mt-30">
+                            <h4>Validated Open Source</h4>
+                            <p>We strictly choose open source components, controls and template1</p>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="service-details-content mt-30">
+                            <h4>Multiple Devices</h4>
+                            <p>From desktop PC, Server(s), mobile phone or VR headset</p>
+                        </div>
+                    </div>
+
+
+                </div>
+
+
+                <h3 class="mt-4 mb-3">Seamless Integration</h3>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="service-details-content mt-30">
+                            <h4>Microsoft Stack</h4>
+                            <p>Our solution based .NET Core, .NET Framework with language of C# and F#</p>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="service-details-content mt-30">
+                            <h4>Cloud ready and On-Premises</h4>
+                            <p>Our solution are running on public cloud such as Microsoft Azure, AWS Amazon and Google
+                                Cloud.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="service-details-content mt-30">
+                            <h4>Validated Open Source</h4>
+                            <p>We strictly choose open source components, controls and template1</p>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="service-details-content mt-30">
+                            <h4>Multiple Devices</h4>
+                            <p>From desktop PC, Server(s), mobile phone or VR headset</p>
+                        </div>
+                    </div>
+
+
+                </div>
+
+
+
             </div>
+
+
+
+            
         </div>
     </section>
 </template>

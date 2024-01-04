@@ -17,7 +17,7 @@
                                         <p>{{ banner.text }}</p>
                                     </div>
                                     <NuxtLink to="/about" class="btn btn-primary btn-hover-secondary">Get Started</NuxtLink>
-                                    <NuxtLink to="/about" class="btn btn-outline-white btn-hover-primary">Learn More</NuxtLink>
+                                    <NuxtLink to="/technology" class="btn btn-outline-white btn-hover-primary">Learn More</NuxtLink>
                                 </div>
                             </div>
                         </div>
@@ -64,13 +64,13 @@
                 sliderData: [
                     {
                         id: 1,
-                        heading: "Hospitality with High Technology",
+                        heading: "Hospitality with Blockchain and AI",
                         text: "Bring right technology to the industry",
                         bgImgSrc: "/images/hero-image/hero-1.jpg"
                     },
                     {
                         id: 2,
-                        heading: "Right Technology ",
+                        heading: "Cross Border E-Commerce with Blockchain and AI",
                         text: "AI + Blockchain + Metaverse + Hospitality + Commerce",
                         bgImgSrc: "/images/hero-image/hero-2.jpg"
                     }
