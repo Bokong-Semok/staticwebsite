@@ -34,7 +34,7 @@
                         <!-- Section Title Two Start -->
                         <div class="section-title-two">
                             <span class="sub-title">Hospitality</span>
-                            <h3 class="title">Bring hospitality with Blockchain and AI technology</h3>
+                            <h3 class="title">Bring hospitality with Blockchain and AI technology.</h3>
                         </div>
 
                         <div class="section-title-two">
