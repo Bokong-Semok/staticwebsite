@@ -72,7 +72,7 @@
                             <div class="col-sm-6">
                                 <div class="service-details-content mt-30">
                                     <h4>Cloud ready and On-Premises</h4>
-                                    <p>Our solution are running on public cloud such as Microsoft Azure, AWS Amazon and Google Cloud. We also support chinese public cloud such as Alibaba cloud</p>
+                                    <p>Our solution are running on public cloud such as Microsoft Azure, AWS Amazon and Google Cloud.</p>
                                 </div>
                             </div>
 
