@@ -50,9 +50,10 @@
 
                 </div>
 
-                <br />
-                <br />
+            </div>
 
+            <div class="row">
+                
                 <h3 class="mt-4 mb-3">Platform</h3>
                 <div class="row">
                     <div class="col-sm-6">
@@ -92,30 +93,22 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="service-details-content mt-30">
-                            <h4>Microsoft Stack</h4>
-                            <p>Our solution based .NET Core, .NET Framework with language of C# and F#</p>
+                            <h4>Smart contract</h4>
+                            <p>We use smart contract to automate the process with highest degree of confident</p>
                         </div>
                     </div>
 
                     <div class="col-sm-6">
                         <div class="service-details-content mt-30">
-                            <h4>Cloud ready and On-Premises</h4>
-                            <p>Our solution are running on public cloud such as Microsoft Azure, AWS Amazon and Google
-                                Cloud.</p>
+                            <h4>Web 2.0 and Web 3.0</h4>
+                            <p>We develop our solution from web 2.0 to web 3.0; </p>
                         </div>
                     </div>
 
                     <div class="col-sm-6">
                         <div class="service-details-content mt-30">
-                            <h4>Validated Open Source</h4>
-                            <p>We strictly choose open source components, controls and template1</p>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6">
-                        <div class="service-details-content mt-30">
-                            <h4>Multiple Devices</h4>
-                            <p>From desktop PC, Server(s), mobile phone or VR headset</p>
+                            <h4>Open Source</h4>
+                            <p>we are using open source public blockchain </p>
                         </div>
                     </div>
 
@@ -191,8 +184,6 @@
 
 
                 </div>
-
-
 
             </div>
 
