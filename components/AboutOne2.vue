@@ -39,11 +39,11 @@
 
                         <div class="section-title-two">
                             <span class="sub-title">Cross-border e-commerce</span>
-                            <h3 class="title">E-commerce with crypto + fiat payments. We handle the rest</h3>
+                            <h3 class="title">E-commerce with crypto + fiat payments.</h3>
                         </div>
                         <!-- Section Title Two End -->
 
-                        <p>Hospitality powered by blockchain and AI technology</p>
+                        <p>Hospitality and cross border commerce powered by blockchain and AI technology</p>
                         <NuxtLink to="/technology" class="btn btn-primary btn-hover-secondary mt-4">Tell me</NuxtLink>
                     </div>
                 </div>
