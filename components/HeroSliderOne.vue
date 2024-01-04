@@ -71,7 +71,7 @@
                     {
                         id: 2,
                         heading: "Cross Border E-Commerce with Blockchain and AI",
-                        text: "AI + Blockchain + Metaverse + Hospitality + Commerce",
+                        text: "Bring blockchain and AI to real world cross border trade",
                         bgImgSrc: "/images/hero-image/hero-2.jpg"
                     }
                 ]
