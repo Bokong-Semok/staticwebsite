@@ -83,7 +83,7 @@
                     <div class="col-sm-6">
                         <div class="service-details-content mt-30">
                             <h4>Multiple Devices</h4>
-                            <p>We are delivering product and service into desktop PC, Server(s), mobile phone or VR headset
+                            <p>We are delivering product and service into desktop PC, Server(s), mobile phone.
                             </p>
                         </div>
                     </div>
@@ -110,8 +110,8 @@
 
                     <div class="col-sm-6">
                         <div class="service-details-content mt-30">
-                            <h4>Web 2.0 and Web 3.0</h4>
-                            <p>We develop our solution from web 2.0 to web 3.0; </p>
+                            <h4>Web and Native Device</h4>
+                            <p>We develop product and service with mind of web and mobile device in mind.  </p>
                         </div>
                     </div>
 
@@ -132,32 +132,17 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="service-details-content mt-30">
-                            <h4>Microsoft Stack</h4>
-                            <p>Our solution based .NET Core, .NET Framework with language of C# and F#</p>
+                            <h4>Cloud based AI stacks</h4>
+                            <p>We use cloud based resources to perform training for our AI</p>
                         </div>
                     </div>
-
                     <div class="col-sm-6">
                         <div class="service-details-content mt-30">
-                            <h4>Cloud ready and On-Premises</h4>
-                            <p>Our solution are running on public cloud such as Microsoft Azure, AWS Amazon and Google
-                                Cloud.</p>
+                            <h4>Programming Language</h4>
+                            <p>Combination of modern language such as Javascript, C#, Python</p>
                         </div>
                     </div>
-
-                    <div class="col-sm-6">
-                        <div class="service-details-content mt-30">
-                            <h4>Validated Open Source</h4>
-                            <p>We strictly choose open source components, controls and template1</p>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6">
-                        <div class="service-details-content mt-30">
-                            <h4>Multiple Devices</h4>
-                            <p>From desktop PC, Server(s), mobile phone or VR headset</p>
-                        </div>
-                    </div>
+                  
 
 
                 </div>
